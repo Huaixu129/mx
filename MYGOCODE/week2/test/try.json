@@ -1,0 +1,6 @@
+[{
+  "key1": "hello",
+  "key2": [1,2,3,4,5],
+  "key3": 123,
+  "key4": ["shanghai","beijing","chengdu"]
+},{"key5": "hello"}]
